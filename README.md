@@ -1,14 +1,20 @@
 # El Hackathon
 
-## Pilares de estudio
+## Pilares de estudio: herramientas
 
-- Git
-- VSCode
-- Flutter
-- Python
+1. **Git**
+    - Rápida conexión con proyectos de Hackathon, repositorios open-source, flujos de trabajo remoto.
+    - Github: Aprender integralmente el repositorio por excelencia, prácticas, open-source.
+    - Fuente: *LinkedinLearning, práctica constante con Github*
+2. **Flutter**
+    - Insignia: proyectos personales, especialización.
+    - Fuente: *Fernando Herrera, freeCodecamp, proyectos personales*
+3. **VSCode**
+    - Optimización de flujos de trabajos reales.
+    - Fuente: *Linkedin Learning, Fernando Herrera*
+4. **Python**
+    - Experiencia, automatización.
 
-## Ruta de preparación
-- Git, para rápida conexión con proyectos de Hackathon; repositorios empresariales, flujos de trabajo remoto, trabajo colaborativo
-- Flutter como insignia
-- Lista de reproducción podcasts de requerimientos de influencer/temas administrativos
-- Publifyer walkthrough
+## Investigación: VOL I. PUBLIFYER
+- Lista de reproducción podcasts de requerimientos de influencer/temas administrativos.
+- Publifyer walkthrough.

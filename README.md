@@ -14,7 +14,7 @@
     - Fuente: *Linkedin Learning, Fernando Herrera*
 4. **Python**
     - Experiencia, automatización.
-5. ChatGPT
+5. **ChatGPT**
     - Mejora de flujos de trabajo in-situ.
 
 ## Investigación: VOL I. PUBLIFYER
